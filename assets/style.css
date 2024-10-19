@@ -9,7 +9,17 @@
     .navbar{
         height: 60px;
     }
+    .collapse{
+        background-color: white;
+        padding: 5px;
+        border-radius: 3px;
+    }
+    .app_inte_card{
+        padding-left: 28vw;
+    }
 }
+
+
 
 @media only screen and (min-width: 800px){
 	/*Big smartphones [426px -> 600px]*/
@@ -20,12 +30,16 @@
 }
 
 
+/*  */
+.navbar {
+    z-index: 1030;
+    position: relative;
+  }
+
 
 /* section one positing */
 .sec_01{
-    /* margin-top: 100px; */
-    margin: 100px;
-    /* background-color: red; */
+    margin-top: 100px;
 }
 .sec_01_cont{
     padding-left: 50px;
@@ -88,4 +102,13 @@
   .btn-outline-light:hover {
     background-color: #fff;
     color: #7b4397;
+  }
+
+  /* a tags */
+  a{
+    color: rgb(59, 58, 58); /* Change this to any color you prefer */
+    text-decoration: none; /* Removes the underline if you don't want it */
+  }
+  a:hover {
+    color: black; /* Change this to control the hover color */
   }

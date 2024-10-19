@@ -1,0 +1,3 @@
+validating the form
+mechanism for that -> we will count on every input fields and before redirecting to the success page te js system should 
+check the count should be greater then 5 or 6. 

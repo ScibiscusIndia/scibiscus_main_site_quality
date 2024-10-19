@@ -1,0 +1,28 @@
+.mail_form_90{
+    /* background-color: red; */
+
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form{
+    width: 400px;
+}
+
+.heading_form{
+    margin-top: 40px;
+}
+
+body{
+    background-image: url("./bgg1.jpg");
+}
+
+label{
+    font-weight: 500;
+}
+
+input{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
