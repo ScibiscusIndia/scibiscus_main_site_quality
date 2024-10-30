@@ -1,0 +1,10 @@
+@media only screen and (max-width: 555px){
+	/*Small smartphones [325px -> 425px]*/
+    .card, h6, p{
+        margin-left: 10vw;
+    }
+    .card{
+        margin-bottom: 5vh;
+    }
+    
+}
