@@ -2505,3 +2505,7 @@ input, select, textarea {
 .nav-link{
 	color: red;
 }
+
+.dark{
+	height: 50px;
+}
